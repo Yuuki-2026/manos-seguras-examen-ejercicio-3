@@ -3,11 +3,7 @@
 Proyecto Flutter de partida para la **Evaluación de la Unidad de
 Aprendizaje I** de SIS048 – Desarrollo de Software II (UAC, 2026-II).
 
-Todos los equipos comienzan la evaluación con este mismo código ya
-clonado y funcionando, de modo que el trabajo de los 60 minutos de
-desarrollo se concentre en la pantalla nueva asignada por sorteo
-(ver Anexo 1 de la ficha de evaluación) y no en reconstruir lo que
-ya se practicó en clase.
+Nuestro equipo N° 3 realizo el ejercicio 3 (la pantalla c). 
 
 ## Qué incluye este proyecto base
 
