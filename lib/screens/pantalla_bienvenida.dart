@@ -38,7 +38,7 @@ class PantallaBienvenida extends StatelessWidget {
                     ));
                   },
                   icon: const Icon(Icons.school_outlined),
-                  label: const Text('Abrir ejercicios de práctica'),
+                  label: const Text('Presiona aquí para ir al ejercicio 3'),
                 ),
               ],
               const SizedBox(height: 24),

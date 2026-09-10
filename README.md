@@ -1,10 +1,5 @@
 # ManosSeguras — Proyecto base (Guías de Práctica N.° 2, 3 y 4)
 
-Esta copia incorpora cuatro ejercicios de práctica independientes. Se abren desde
-**Abrir ejercicios de práctica** en la bienvenida. Consulta
-[GUIA_EJERCICIOS.md](GUIA_EJERCICIOS.md) para entender cada pantalla y retirar
-variantes sin romper la navegación. La descripción siguiente documenta la base original.
-
 Proyecto Flutter de partida para la **Evaluación de la Unidad de
 Aprendizaje I** de SIS048 – Desarrollo de Software II (UAC, 2026-II).
 
@@ -94,9 +89,9 @@ y FVM). No usa paquetes externos más allá de `cupertino_icons`, por
 lo que `flutter pub get` no requiere conexión a paquetes de terceros
 adicionales.
 
-## Qué no incluía el proyecto base original
+## Qué NO incluye (a propósito)
 
-El proyecto base original **no** resolvía ninguna de las 4 variantes de
+Este proyecto base **no** resuelve ninguna de las 4 variantes de
 pantalla del Anexo 1 de la evaluación (Resumen de Oportunidad,
 Panel de Cumplimiento por Servicio, Perfil del Observador,
 Configuración y Apariencia): esa pantalla nueva es, junto con el
