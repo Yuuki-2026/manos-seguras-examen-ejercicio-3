@@ -3,7 +3,7 @@
 Proyecto Flutter de partida para la **Evaluación de la Unidad de
 Aprendizaje I** de SIS048 – Desarrollo de Software II (UAC, 2026-II).
 
-Nuestro equipo N° 3 realizo el ejercicio 3 (la pantalla c). 
+En esta entrega, el Equipo N.° 3 presenta la implementación del Ejercicio 3, correspondiente a la Pantalla C (Pantalla de Perfil del Observador).
 
 ## Qué incluye este proyecto base
 
